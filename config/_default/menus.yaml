@@ -1,0 +1,57 @@
+leftnav:
+- identifier: 9e86cc48-2107-c660-2b49-d87f9ad5b58f
+  name: 'Module 1: Introduction to Ethics in Machine Learning'
+  url: /pages/module-one-introduction/
+  weight: 10
+- identifier: 7ae79e54-28df-63c2-7532-f44ff913ca8f
+  name: Background
+  parent: 9e86cc48-2107-c660-2b49-d87f9ad5b58f
+  url: /pages/module-one-introduction/background
+  weight: 20
+- identifier: e5c9ce69-6e54-9096-c82b-62631a8b712b
+  name: 'Module 2: Examples of Ethical Challenges in ML'
+  url: /pages/module-two-ethical-challenges/
+  weight: 30
+- identifier: d051f181-6b62-707c-174c-9cd67708fc30
+  name: USAID Appropriate Use Framework
+  parent: e5c9ce69-6e54-9096-c82b-62631a8b712b
+  url: /pages/module-two-ethical-challenges/fairness-criteria
+  weight: 40
+- identifier: 81e0b58f-33da-44c7-27c4-e0d948632623
+  name: Solar Lighting Example
+  parent: e5c9ce69-6e54-9096-c82b-62631a8b712b
+  url: /pages/module-two-ethical-challenges/solar-lighting-example
+  weight: 50
+- identifier: 7eac5c4b-32a0-928c-eec9-3df651769dd0
+  name: 'Module 3: Pedagogical Framework for Addressing Ethical Challenges'
+  url: /pages/module-three-framework/
+  weight: 60
+- identifier: 8d5b79a6-d48a-bb89-18c0-258cee333d68
+  name: Protected Attributes and Fairness through Unawareness
+  parent: 7eac5c4b-32a0-928c-eec9-3df651769dd0
+  url: /pages/module-three-framework/protected-attributes
+  weight: 70
+- identifier: 1c0498f4-4dca-ffcb-365a-4a06ad7bbeb4
+  name: Fairness Criteria
+  parent: 7eac5c4b-32a0-928c-eec9-3df651769dd0
+  url: /pages/module-three-framework/fairness-criteria
+  weight: 80
+- identifier: cce773cc-98d0-45b1-b181-83c340d2d168
+  name: 'Module 4: Case Studies with Data '
+  url: /pages/module-four-case-studies/
+  weight: 90
+- identifier: 3ee1ee69-1813-a435-6d18-22d90b24e11c
+  name: Mitigating Gender Bias
+  parent: cce773cc-98d0-45b1-b181-83c340d2d168
+  url: /pages/module-four-case-studies/case-study-mitigating-gender-bias
+  weight: 100
+- identifier: e927237f-0504-d17b-16db-1e7afce2a68e
+  name: Case Study on Pulmonary Health
+  parent: cce773cc-98d0-45b1-b181-83c340d2d168
+  url: /pages/module-four-case-studies/case-study-on-pulmonary-health
+  weight: 110
+- identifier: a5c725d2-f880-55c1-2a5d-bcda24b3db0b
+  name: Demographic Bias in NLP
+  parent: cce773cc-98d0-45b1-b181-83c340d2d168
+  url: /pages/module-four-case-studies/case-study-on-nlp
+  weight: 120

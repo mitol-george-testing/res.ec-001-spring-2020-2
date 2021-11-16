@@ -1,0 +1,35 @@
+{
+  "level": "Non Credit",
+  "topics": [
+    [
+      "Engineering",
+      "Computer Science",
+      "Artificial Intelligence"
+    ],
+    [
+      "Teaching and Education",
+      "Curriculum and Teaching"
+    ]
+  ],
+  "instructors": {
+    "content": [
+      "56ed272d-1906-edde-638a-e8c0ed26ba19",
+      "ce2a794a-3bd9-f266-68f3-776c1b372455",
+      "c9db1340-f58c-e074-cab0-75dd52ab737c",
+      "f70066aa-66a8-0850-327d-6b5afe151e21",
+      "ad5209cd-97e1-a0a9-b8d6-012b467f3976"
+    ],
+    "website": "ocw-www"
+  },
+  "course_title": "Exploring Fairness in Machine Learning for International Development",
+  "course_description": "In an effort to build the capacity of the students and faculty on the topics of bias and fairness in machine learning (ML) and appropriate use of ML, the [MIT CITE](https://d-lab.mit.edu/research/mit-d-lab-cite) team developed capacity-building activities and material. This material covers content through four modules that an be integrated into existing courses over a one to two week period.\n",
+  "department_numbers": [
+    "RES"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "RES.EC-001",
+  "learning_resource_types": [
+    "Lecture Videos"
+  ],
+  "title": "Course Metadata"
+}
